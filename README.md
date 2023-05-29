@@ -54,4 +54,4 @@ The Data Features include:
 
 * modelling  
 
-The machine model used include : Logistic Regression, KNeighborsClassifier, RandomForestClassifier.
+The machine Learning model used include : Logistic Regression, KNeighborsClassifier, RandomForestClassifier.
